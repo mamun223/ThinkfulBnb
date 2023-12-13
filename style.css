@@ -103,7 +103,7 @@ header nav ul li a:hover {
 }
 
 /* -------  Search Form ------- */
-.item {
+.item1 {
   justify-content: space-between;
   display: flex;
   margin: 15px 15px;
@@ -152,7 +152,7 @@ footer p {
 
 /* -------  Media Query ------- */
 
-@media all and (min-width: 600px) {
+@media all and (min-width: 800px) {
   header {
     display: flex;
     justify-content: space-between;
