@@ -183,6 +183,7 @@ footer p {
     padding: 10px;
     display: flex;
     flex-wrap: wrap;
+    -ms-flex-item-align: center;
   }
 
 
